@@ -27,3 +27,17 @@ C:\Users\Administrator\Desktop\Temp\CSharpstudy\CSharpstudy\obj\Debug\net6.0\ref
 C:\Users\Administrator\Desktop\Temp\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.pdb
 C:\Users\Administrator\Desktop\Temp\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Temp\CSharpstudy\CSharpstudy\obj\Debug\net6.0\ref\CSharpstudy.dll
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\bin\Debug\net6.0\CSharpstudy.exe
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\bin\Debug\net6.0\CSharpstudy.deps.json
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\bin\Debug\net6.0\CSharpstudy.runtimeconfig.json
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\bin\Debug\net6.0\CSharpstudy.dll
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\bin\Debug\net6.0\CSharpstudy.pdb
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.dll
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\refint\CSharpstudy.dll
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.pdb
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\CSharpstudy.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CSharpstudy\CSharpstudy\obj\Debug\net6.0\ref\CSharpstudy.dll

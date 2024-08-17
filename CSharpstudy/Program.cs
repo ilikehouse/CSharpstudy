@@ -198,7 +198,10 @@ namespace CSharpstudy
             float halfA = float.Parse(half);
 
             Console.WriteLine($"원의 넓이 : {halfA * halfA * 3.14}");
-            
+
+
+
+
 
 
         }
