@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpstudy", "CSharpstudy.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "클래스와 메소드", "..\클래스와 메소드\클래스와 메소드.csproj", "{287DB33B-926B-4F4B-815D-92A126968454}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "코드흐름제어", "..\코드흐름제어\코드흐름제어.csproj", "{14148C6D-4CB8-4994-BBEF-27F382678187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "코드흐름제어", "..\코드흐름제어\코드흐름제어.csproj", "{14148C6D-4CB8-4994-BBEF-27F382678187}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "클레스 상속", "..\클레스 상속\클레스 상속.csproj", "{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "이터널리턴", "..\이터널리턴\이터널리턴.csproj", "{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{14148C6D-4CB8-4994-BBEF-27F382678187}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14148C6D-4CB8-4994-BBEF-27F382678187}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14148C6D-4CB8-4994-BBEF-27F382678187}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

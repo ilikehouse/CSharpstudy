@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "이터널리턴/1.0.0": {
+        "runtime": {
+          "이터널리턴.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "이터널리턴/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

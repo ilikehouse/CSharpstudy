@@ -1,0 +1,15 @@
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\bin\Debug\net8.0\이터널리턴.exe
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\bin\Debug\net8.0\이터널리턴.deps.json
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\bin\Debug\net8.0\이터널리턴.runtimeconfig.json
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\bin\Debug\net8.0\이터널리턴.dll
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\bin\Debug\net8.0\이터널리턴.pdb
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.AssemblyInfoInputs.cache
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.AssemblyInfo.cs
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.sourcelink.json
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.dll
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\refint\이터널리턴.dll
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.pdb
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\이터널리턴.genruntimeconfig.cache
+C:\Users\SBS\Desktop\c#\CSharpstudy\이터널리턴\obj\Debug\net8.0\ref\이터널리턴.dll

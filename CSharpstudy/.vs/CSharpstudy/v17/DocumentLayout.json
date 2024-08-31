@@ -1,10 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Temp\\CSharpstudy\\CSharpstudy\\",
+  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\CSharpstudy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04E8DC9A-F287-4A71-9E11-9EED4E25BB6E}|CSharpstudy.csproj|c:\\users\\administrator\\desktop\\temp\\csharpstudy\\csharpstudy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04E8DC9A-F287-4A71-9E11-9EED4E25BB6E}|CSharpstudy.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}|..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\\uD074\uB808\uC2A4 \uC0C1\uC18D.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}|..\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\bear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}|..\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}|..\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FED87D53-75CE-46D9-ABC3-D3BAF75FFFF3}|..\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}|..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\\uD074\uB808\uC2A4 \uC0C1\uC18D.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}|..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\\uD074\uB808\uC2A4 \uC0C1\uC18D.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}|..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\\uD074\uB808\uC2A4 \uC0C1\uC18D.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\parent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C12A5FF-CA1A-42F9-A2CC-513B6045B9D5}|..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\\uD074\uB808\uC2A4 \uC0C1\uC18D.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{287DB33B-926B-4F4B-815D-92A126968454}|..\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj|c:\\users\\sbs\\desktop\\c#\\csharpstudy\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,27 +40,140 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\uC774\uD130\uB110\uB9AC\uD134",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj",
+              "RelativeDocumentMoniker": "..\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj",
+              "RelativeToolTip": "..\\\uC774\uD130\uB110\uB9AC\uD134\\\uC774\uD130\uB110\uB9AC\uD134.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T07:42:34.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\Player.cs",
+              "RelativeDocumentMoniker": "..\\\uC774\uD130\uB110\uB9AC\uD134\\Player.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\Player.cs",
+              "RelativeToolTip": "..\\\uC774\uD130\uB110\uB9AC\uD134\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:51:05.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\Bear.cs",
+              "RelativeDocumentMoniker": "..\\\uC774\uD130\uB110\uB9AC\uD134\\Bear.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\Bear.cs",
+              "RelativeToolTip": "..\\\uC774\uD130\uB110\uB9AC\uD134\\Bear.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:42:43.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\uC774\uD130\uB110\uB9AC\uD134\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uC774\uD130\uB110\uB9AC\uD134\\Program.cs",
+              "RelativeToolTip": "..\\\uC774\uD130\uB110\uB9AC\uD134\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:37:33.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parent.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Parent.cs",
+              "RelativeDocumentMoniker": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Parent.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Parent.cs",
+              "RelativeToolTip": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Parent.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwCIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T07:08:38.247Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Temp\\CSharpstudy\\CSharpstudy\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Temp\\CSharpstudy\\CSharpstudy\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAK8AAAAAAAAAAIAwwMMAAAAvAAAA",
+              "Title": "Bear.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Bear.cs",
+              "RelativeDocumentMoniker": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Bear.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Bear.cs",
+              "RelativeToolTip": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Bear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-10T05:21:59.251Z",
+              "WhenOpened": "2024-08-31T05:27:29.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slime.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Slime.cs",
+              "RelativeDocumentMoniker": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Slime.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Slime.cs",
+              "RelativeToolTip": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Slime.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAIwG4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:25:23.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Player.cs",
+              "RelativeDocumentMoniker": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Player.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Player.cs",
+              "RelativeToolTip": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Player.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:23:01.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Program.cs",
+              "RelativeDocumentMoniker": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Program.cs",
+              "RelativeToolTip": "..\\\uD074\uB808\uC2A4 \uC0C1\uC18D\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T05:22:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj",
+              "RelativeDocumentMoniker": "..\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\c#\\CSharpstudy\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj",
+              "RelativeToolTip": "..\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC\\\uD074\uB798\uC2A4\uC640 \uBA54\uC18C\uB4DC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-31T05:10:22.793Z",
               "EditorCaption": ""
             }
           ]

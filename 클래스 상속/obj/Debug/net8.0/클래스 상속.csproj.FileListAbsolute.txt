@@ -1,0 +1,15 @@
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\bin\Debug\net8.0\클래스 상속.exe
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\bin\Debug\net8.0\클래스 상속.deps.json
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\bin\Debug\net8.0\클래스 상속.runtimeconfig.json
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\bin\Debug\net8.0\클래스 상속.dll
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\bin\Debug\net8.0\클래스 상속.pdb
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.AssemblyInfoInputs.cache
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.AssemblyInfo.cs
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.sourcelink.json
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.dll
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\refint\클래스 상속.dll
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.pdb
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\클래스 상속.genruntimeconfig.cache
+C:\Users\SBS\Desktop\c#\CSharpstudy\클래스 상속\obj\Debug\net8.0\ref\클래스 상속.dll
